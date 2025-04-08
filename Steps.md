@@ -1,4 +1,4 @@
-1. create environment `python -m venv env` , pthon version 3.12.6
+1. create environment `python -m venv env` , pthon version 3.12.6 or less
 
 2. `pip install tensorflow keras imutils numpy opencv-python matplotlib argparse scipy scikit-learn pillow streamlit onnx tf2onnx`
 
